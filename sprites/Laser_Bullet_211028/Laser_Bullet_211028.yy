@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"4",
-    "path":"folders/Sprites/Lasers Bullets/4.yy",
+    "name":"Yellow",
+    "path":"folders/Sprites/Lasers Bullets/Yellow.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
