@@ -1,6 +1,6 @@
 # 🚀 Workshop – Desenvolvimento de Jogo com GameMaker
 
-Este repositório contém o projeto desenvolvido durante o workshop de criação de um jogo estilo *Arcade Shooter* no **GameMaker**.  
+Este repositório contém o projeto desenvolvido durante o workshop de criação de um jogo estilo *Space Rocks* no **GameMaker**.  
 O objetivo é mostrar, em três módulos, como evoluir um jogo desde a base até sua publicação final.
 
 ---
@@ -14,8 +14,6 @@ O objetivo é mostrar, em três módulos, como evoluir um jogo desde a base até
 - **fase-2-final** → jogo aprimorado e testado.  
 - **fase-3-dev** → interface, menus, polimento e ajustes finais.  
 - **fase-3-final** → versão concluída e publicada.  
-
-> 🔎 Sugestão: usar o sufixo `-dev` e `-final` em vez de “fase 1 / fase 1 - finalizada” para manter consistência.
 
 ---
 
@@ -46,8 +44,8 @@ O objetivo é mostrar, em três módulos, como evoluir um jogo desde a base até
 - [GameMaker – Make an Arcade Space Shooter](https://gamemaker.io/en/tutorials/make-arcade-space-shooter)  
 - [GameMaker – Space Rocks Mods](https://gamemaker.io/pt-BR/tutorials/space-rocks-mods)  
 - Assets do Itch.io:  
-  - [UI Different02](https://wenrexa.itch.io/ui-different02)  
-  - [Bullets3](https://wenrexa.itch.io/bullets3)  
+  - [Free Ui KIT #4](https://wenrexa.itch.io/ui-different02)  
+  - [Lasers Bullets](https://wenrexa.itch.io/bullets3)  
   - [Simple Space](https://kenney-assets.itch.io/simple-space)  
 
 ---
@@ -57,5 +55,5 @@ O objetivo é mostrar, em três módulos, como evoluir um jogo desde a base até
 **Julio Alves**  
 - [LinkedIn](https://linkedin.com/in/julioall)  
 - [GitHub](https://github.com/Julioall)  
-- 📧 julio.all@outlook.com  
+- 📧 julio.all@outlook.com/ julioalves@fieg.com.br
 - 📱 +55 (62) 9 99512-5536  
