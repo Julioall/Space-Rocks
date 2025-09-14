@@ -1,0 +1,30 @@
+
+Referências utilizadas no workshop:
+
+1. **Make Your Own Arcade Space Shooter** – tutorial oficial da YoYo Games (GameMaker).
+   - Explica como criar um projeto usando o template "Space Rocks", configurar sprites, criar objetos e programar eventos para mover a nave, disparar projéteis, movimentar rochas, detectar colisões, controlar pontuação e reiniciar o jogohttps://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=How%20to%20Create%20a%20New,Projecthttps://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=Okay%2C%20so%2C%20we%20need%20to,move%20the%20ship.
+   - Instruções detalhadas para adicionar tiros, velocidade e direção dos projéteis - https://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=How%20to%20Shoot%20in%20GameMaker, destruir projéteis quando saem da salahttps://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=How%20to%20Destroy%20an%20Instance,in%20GameMaker, movimentar rochas com direção aleatória e efeito de wraphttps://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=All%20rocks%20should%20move%20in,not%20too%20hard%20to%20catch, programar colisões entre projéteis e rochas (com efeitos e mudança de tamanho)https://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=Add%20this%20here%3A e utilizar condições para gerar rochas menores ou reposicioná-las quando há poucas no cenáriohttps://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=.
+   - O tutorial também mostra como lidar com a colisão da nave com as rochas, utilizando eventos de alarme para reiniciar o jogo e desenhar a pontuação na interface - https://gamemaker.io/en/tutorials/make-arcade-space-shooter#:~:text=Move%20and%20shoot%20all%20you,playing%20unless%20there%E2%80%99s%20great%20danger.
+
+2. **Space Mods: Continue Your Space Rocks Game** – anúncio da série de vídeos "Space Mods" no site oficial da YoYo Games. 
+   - Resume que a série aborda cinco temas para expandir o jogo: câmeras para ampliar a área e seguir a ação, backgrounds com paralaxe, inimigos controlados (enemy factions), power‑ups para a nave e efeitos para polir o jogohttps://gamemaker.io/en/tutorials/space-mods-continue-your-space-rocks-game#:~:text=Our%20latest%20series%20of%20video,by%20coding%20with%20GameMaker%20Language.
+   - Não fornece instruções detalhadas no texto; remete aos vídeos correspondentes.
+
+3. **Assets para o projeto** – packs de arte e efeitos usados como recurso visual:
+   - **Free Ui KIT #4** – pacote de interface do usuário (ícones, barras, botões) disponível em https://wenrexa.itch.io/ui-different02.
+   - **Lasers Bullets** – sprites de projéteis para jogos, disponível em https://wenrexa.itch.io/bullets3.
+   - **Simple Space** – conjunto de gráficos espaciais simples da Kenney Assets, disponível em https://kenney-assets.itch.io/simple-space.
+
+Observação: os links dos recursos de arte acima são fornecidos como referência de uso; as páginas não trazem descrição textual acessível via esta interface, portanto não há detalhes adicionais especificados.
+
+Informações de Contato:
+
+Nome: Julio Alves
+
+LinkedIn: linkedin.com/in/julioall
+
+GitHub (Portfólio): github.com/Julioall
+
+Telefone: +55 (62) 99512-5536
+
+E-mail: julio.all@outlook.com; julioalves@fieg.com.br
