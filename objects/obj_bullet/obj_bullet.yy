@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Laser_Bullet_10176",
-    "path":"sprites/Laser_Bullet_10176/Laser_Bullet_10176.yy",
+    "name":"Laser_Bullet_11177",
+    "path":"sprites/Laser_Bullet_11177/Laser_Bullet_11177.yy",
   },
   "spriteMaskId":null,
   "visible":true,

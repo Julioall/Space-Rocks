@@ -1,1 +1,0 @@
-fire_cooldown = 0;
